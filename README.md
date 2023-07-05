@@ -1,2 +1,2 @@
  Web Scrapper
- for scrapping webpages to get *img* files in csv
+ for scrapping webpages to get *IMG* and text files in CSV
