@@ -1,0 +1,9 @@
+# Security Policy
+
+TOTALLY FREE TO EVERYBODY FOR WHATEVER , EXCLUDED NOT HUMANS.
+
+## Supported Versions 
+
+ PYTHON 3.0 AN IN ADVANCE
+
+
