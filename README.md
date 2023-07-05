@@ -12,3 +12,9 @@ The CSV format is widely used for storing tabular data. Each row in the file rep
 If you want to save the data in a different format, such as JSON or Excel, you can use the functions provided by pandas. For example, you can use to_json to save in JSON format or to_excel to save in Excel format. You would just need to adjust the part where the DataFrame is saved in the code.
 
 By saving the scraped data in a CSV file, you can easily publish and share the data with others. It provides a structured and standardized format that can be easily imported and analyzed by various software and tools.
+
+
+*to do list*
+exe file
+add a function to let u choose the format to export files
+add an option to choose the waypath
