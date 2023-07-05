@@ -1,6 +1,6 @@
  # Web Scrapper
  
- for scrapping webpages to get *IMG* and text files in CSV
+#....
 
 
 In the provided code, the scraping result is being saved to a CSV (Comma Separated Values) file. The resulting file will have two columns: "URL" and "Content".
