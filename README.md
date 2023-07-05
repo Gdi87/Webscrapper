@@ -45,4 +45,23 @@ By saving the scraped data in a CSV file, you can easily publish and share the d
 10. Add an option to choose the waypath.
 
 11.  Make it an EXE File.                              
- 
+
+
+# *"Furthermore, we would also like to incorporate..."*   
+
+1B. Authentication: Implement automatic login functionality using libraries like requests or Selenium for websites that require authentication.
+
+2B. Rate Limiting: Add a pause between scraping requests to avoid overloading the target server and comply with website policies.
+
+3B. Incremental Scraping: Implement functionality to perform incremental scraping by storing a record of previously scraped pages and only re-scraping modified pages.
+
+4B. Structured Scraping: Utilize structured scraping techniques using XPath or CSS selectors for precise and efficient extraction of specific information from websites with common structures.
+
+5B. Proxies: Consider using proxies to increase scraping speed or overcome IP restrictions, leveraging libraries like requests with proxy support.
+
+6B. Automatic Updates: Implement a mechanism to automatically check and download script updates to ensure you are using the latest version of your scraper.
+
+7B. Logging and Error Handling: Incorporate logging to track activity and errors during the scraping process, facilitating issue identification and resolution.
+
+8B. API Integration: If the websites you wish to scrape provide APIs, consider using the APIs instead of traditional scraping for accessing structured and up-to-date data more efficiently.
+
