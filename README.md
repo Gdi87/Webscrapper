@@ -16,7 +16,9 @@ By saving the scraped data in a CSV file, you can easily publish and share the d
 
 *to do list*:
 
+. IMG scrapper
 . exe file                                                  
 . add a function to let u choose the format to export files                                         
 . add an option to choose the waypath       
 . extract metadata
+
