@@ -14,13 +14,30 @@ If you want to save the data in a different format, such as JSON or Excel, you c
 By saving the scraped data in a CSV file, you can easily publish and share the data with others. It provides a structured and standardized format that can be easily imported and analyzed by various software and tools.
 
 
-*to do list*:
+$#*to do list*:
+                             
 
-. IMG scrapper                                
-. exe file                                                  
-. add a function to let u choose the format to export files                                         
-. add an option to choose the waypath       
-. extract metadata
-. ERROR handling       
-. Avoid unespected stop
-. User Interface
+
+
+1. Error Handling: Implement error handling and exceptions to handle unexpected situations during scraping, making your scraper more robust.
+
+2. Image Scraping: Utilize libraries like requests or urllib to download images from the web pages you are scraping. Extract image URLs and save them locally.
+
+3. Metadata Extraction: Extract additional metadata such as page title, description, keywords, author, etc., providing structured information about the web pages being scraped.
+
+4. User Interface: Develop a user-friendly interface using libraries like tkinter or PyQt to create a visual application with buttons, input fields, and other functionalities.
+
+5. Parallel Scraping: Implement parallelization using libraries such as concurrent.futures or multiprocessing to scrape multiple URLs simultaneously and speed up the process.
+
+6. Deep Scraping: Explore advanced scraping techniques using libraries like Selenium or Scrapy to extract information from embedded elements, dynamic content, or hidden data.
+
+7. Database Storage: Instead of saving the scraping result to a CSV file, consider storing the data in a database like SQLite, MySQL, or PostgreSQL for easier management and long-term persistence.
+
+8. Customization of Extraction: Research and utilize the capabilities of the trafilatura library to customize the extraction process according to your specific requirements, adjusting parameters for including or excluding comments, links, tables, etc.
+ 
+9. Add a function to let u choose the format to export files.
+
+10. Add an option to choose the waypath.
+
+11.  Make it an EXE File.                              
+ 
